@@ -7,4 +7,4 @@ Just execute the command below
 ```gradlew eclipse```
 
 ## How to run the project
-```gradlew jettyRunWar
+```gradlew jettyRunWar```
