@@ -12,4 +12,10 @@ Just execute the command below
 
 ``` ./gradlew jettyRunWar```
 
-After that just head to http://localhost:8080
+## Windows
+
+If you are using windows just remove "./" from the commands above.
+
+## How to access the application
+
+After ran the project just head to http://localhost:8080 in your browser!
