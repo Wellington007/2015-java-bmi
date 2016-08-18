@@ -7,4 +7,8 @@ Just execute the command below
 ```./gradlew eclipse```
 
 ## How to run the project
+
+``` ./gradlew build```
 ``` ./gradlew jettyRunWar```
+
+After that just head to http://localhost:8080
